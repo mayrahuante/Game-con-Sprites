@@ -1,0 +1,24 @@
+#canvas1 {
+  border: 5px solid black;
+  height: 600px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+}
+
+#instrucciones {
+  align-content: center;
+  align-items: center;
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  justify-content: center;
+  margin-top: 15%;
+  width: 300px;
+  font-weight: 700;
+}
+
+body{
+  background-color: aquamarine;
+}
